@@ -1,0 +1,3 @@
+INFO    2020-12-02 18:43:13,156 [main] pages_Facebook2.Loggs  - This is our first log 
+ERROR   2020-12-02 18:43:13,157 [main] pages_Facebook2.Loggs  - Object not Displayed
+FATAL   2020-12-02 18:43:13,157 [main] pages_Facebook2.Loggs  - object is missing
